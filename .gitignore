@@ -1,0 +1,10 @@
+﻿/.idea
+/.vscode
+/vendor
+/front/node_modules
+/front/dist
+/runtime/logs/*.log
+*.log
+.env
+/tests/tmp
+/tests/.phpunit.result.cache
