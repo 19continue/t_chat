@@ -6,7 +6,7 @@
 
 ![Screenshot 1](1.jpg)
 ![Screenshot 2](2.jpg)
-![Screenshot 3](i3.gif)
+![Screenshot 3](3.gif)
 ![Screenshot 4](4.gif)
 
 ## 结构
