@@ -4,10 +4,10 @@
 
 ## 项目预览
 
-![Screenshot 1](img/1.jpg)
-![Screenshot 2](img/2.jpg)
-![Screenshot 3](img/3.gif)
-![Screenshot 4](img/4.gif)
+![Screenshot 1](1.jpg)
+![Screenshot 2](2.jpg)
+![Screenshot 3](i3.gif)
+![Screenshot 4](4.gif)
 
 ## 结构
  - `app/`后端控制器、模型和中间件
